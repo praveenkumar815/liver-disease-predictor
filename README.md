@@ -2,6 +2,7 @@
 
 A **full‑stack web application** for **liver disease risk assessment** using **Machine Learning**.  
 Built with a **React.js** frontend for user interaction and visualization, and a **Flask API backend** powered by a trained **Keras model** for predictions.
+https://liver-disease-predictor-frma.onrender.com/
 
 ---
 
